@@ -2,7 +2,7 @@ const nazwaKursu = document.querySelector('#mainTitleK').innerText;
 //console.log(nazwaKursu);
 let pytaniaOdpowiedzi;
 let arr;
-const reg =/\W/mgi;
+const reg =/\s/mg;
 switch(nazwaKursu){
         /*Algorytmika i programowanie*/
     case "Algorytmika Internetu":
@@ -447,6 +447,12 @@ function jednoPytanie(klasa){
 let selektorPyt = "."+klasa+" table tbody th";
 pytanie = document.querySelector(selektorPyt).innerText;
 pytanie = pytanie.replace(/<([^>]+>)/ig,"");
+pytanie = pytanie.replace(/<br>/mg,"");
+pytanie = pytanie.replace(/&gt/mg,"");
+pytanie = pytanie.replace(/&lt/mg,"");
+pytanie = pytanie.replace(/;/mg,"");
+pytanie = pytanie.replace(/„/mg,"");
+pytanie = pytanie.replace(/”/mg,"");
     
 //console.log(pytanie);
 let selektorOdp = "."+klasa+" .testQuest label";
@@ -455,6 +461,12 @@ for (let j=0; j<odp.length; j++) {
     let tresc = odp[j].innerHTML;
     tresc = tresc.replace(/<([^>]+>)/ig,"");
     tresc = tresc.replace(reg,"").toLowerCase();
+    tresc = tresc.replace(/<br>/mg,"");
+    tresc = tresc.replace(/&gt/mg,"");
+    tresc = tresc.replace(/&lt/mg,"");
+    tresc = tresc.replace(/;/mg,"");
+    tresc = tresc.replace(/„/mg,"");
+    tresc = tresc.replace(/”/mg,"");
     let id = odp[j].htmlFor;
     if(pytaniaOdpowiedzi.get(pytanie)==tresc){
         udzieloneOdpowiedzi+=1;
