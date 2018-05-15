@@ -48,7 +48,7 @@ switch(nazwaKursu){
     arr=[['któryzponiżejwymienionychalgorytmównajszybciejzrealizujezadanieporządkowaniazbioru','algorytmquicksort'],['ileporównańnależydokonaćabywzbiorzen–elementowymznaleźćwartośćminimaxstosującalgorytmdzielizwyciężaj','3n/2-2'],['jakiezadanierealizujeprzedstawionyponiżejzapomocąlistykrokówalgorytm?krok1dlaj=1,2,..,n-1wykonajkrok1…krok4,anastępniezakończalgorytmkrok2pmin-jkrok3dlai=j-1,j+2,…,njeżelid[i]d[pmin],topmin-ikrok4d[j]-d[pmin]','sortowanieprzezwybór'],['jakiejzłożonościobliczeniowejjestalgorytmsortowaniamargesort','logarytmicznej'],['stosującalgorytmwyszukiwaniaprzezpołowieniedlazbioruuporządkowanegoowielkościn=100000,ilenależymaksymalniewykonaćporównańabysprawdzićczyliczbalznajdujesięwzbiorze.','17'],['wskażzdanieprawdziwe.metodaprogramistycznadzielizwyciężajwykorzystywanawcelusprawdzeniaczyzadanawartośćznajdujesięwzbiorze,realizowanajestdlazbiorów…','uporządkowanych'],['ilenależyrozegraćdodatkowychmeczywturniejutenisowymabywyłonićdrugiegonajlepszegograczaturniejuwiedząc,żeliczbauczestnikówjestrównan=8','2'],['ileoperacjiporównanianależywykonaćabydlanieuporządkowanegozbiorudwudziestoelementowego,wyszukaćwartośćnajmniejszą?','19'],['któryzponiżejwymienionychalgorytmównajszybciejwyświetliwynikoperacjiwyszukiwaniawzbiorzenieuporządkowanymzadanejprzezużytkownikawartości','algorytmwyszukiwanialiniowegozwartownikiem'],]
         break;
     case "Programowanie współbieżne w informatyce i nie tylko":
-        
+    arr=[['kiedyprogramwspółbieżnyjestpoprawny?','kiedyspełniazarównowymogiwłasnościbezpieczeństwajakiżywotności'],['zponiższychpodpowiedziwybierzto,któreopisujepojęcieproceswujęciuprogramowaniawspółbieżnego.','toobiektydynamicznewykonująceciąginstrukcji'],['naczympolegaproblemzakleszczeniawprogramowaniuwspółbieżnym','wsystemienicsięniedzieje,aprocesyoczekująnazdarzeniektórenigdyniezajdzie'],['conazywamywykonaniemprogramówasynchronicznie?','wykonywanieprogramówprzezprocesyniezależnieodsiebie'],['którezwymienionychponiżejzdańsąwłasnościamibezpieczeństwaprogramówwspółbieżnych?','programmusibyćbezpiecznydlawszystkichmożliwychprzeplotów'],['którezponiższychzdańjestprawdziwe?','dwaróżneprocesymogąwykonywaćtensamprogram'],['jeżelidwaprocesywykonująwspółbieżnietensamprogramzwiększaniapięciokrotnegowartościxojeden,gdziewartośćpoczątkowaxjestrówna0.jakąwartośćmożeprzyjąćxpozakończeniuobydwuprocesów.wskażprawidłowąodpowiedź.','xzawszebędziemniejszebądźrówne10'],['wskażcechęprogramowaniawspółbieżnego.','bardzodobraelastycznośćistrukturaprogramu'],['którezprzedstawionychponiżejsposobówwykonaniaprogramówwspółbieżnychnależydokategoriiwykonanianierównoległego?','systemówprzeplocie'],['conazywamyprogramemwspółbieżnym?','jesttoprogramw,którymwieleczynnościmożeodbywaćsięjednocześnie'],]
         break;
     case "Proste rachunki wykonywane za pomocą komputera":
         
@@ -75,7 +75,7 @@ switch(nazwaKursu){
         
         break;
     case "Wprowadzenie do programowania obiektowego":
-        
+    
         break;
     case "Zaawansowane algorytmy":
         
@@ -147,8 +147,8 @@ switch(nazwaKursu){
         
         break;
         /*Chemia*/
-    case "Jednofunkcyjne pochodne węglowodorów - Aldehydy":
-        
+    case "Jednofunkcyjne pochodne węglowodorów - Aldehydy"://10/10
+    arr=[['związekowzorzec6h5–ch=ch–chowystępujewcynamonie.wskaż,którapróbapotwierdzijegonienasyconycharakter','reakcjazbromemwśrodowiskuccl4'],['nazwazwyczajowabenzeno-1,2-dikarboaldehyduto','aldehydftalowy'],['procesutlenieniaetylenuzachodziwsposóbnajbardziejselektywny,jeślikatalizatoramireakcjisąchlorekpalladu(ii)oraz___________.poanalizieponiższychrównańreakcjichemicznych,wskażnazwęsystematycznądrugiegokatalizatora(a,b,clubd).c2h4+pdcl2+h2o→ch3cho+pd+2hclpd+_____→cucl+pdcl2','chlorekmiedzi(ii)'],['etanalmożemyotrzymaćwwynikureakcjiuwodnienia_______wobecnościsiarczanu(vi)rtęci(ii)ikwasusiarkowego(vi)','etynu'],['odczynniktollensato','[ag(nh3)2]+'],['nazwasystematycznaaldehydumasłowegotoaldehyd','butanowy'],['produktemreakcjifenoluzformaldehydemjest','żywicafenylowo-formaldehydowaożółtejbarwie'],['prawidłowozapisanerównanieprzedstawiającepróbętrommerato','rcho+2cu(oh)2→rcooh+cu2o+2h2o'],['wskaż,wwynikuktórejreakcjiorazzjakiegozwiązkupowstajesubstancjaowzorze:ch3-ch2-ch2-ch2-cho','utlenianiapentan-1-olu'],['związekchemiczny,którywystępujewziarnachkawyorazwdojrzałychowocachto','etanal'],]
         break;
     case "Jednofunkcyjne pochodne węglowodorów - Alkohole":
         
