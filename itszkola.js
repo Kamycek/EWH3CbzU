@@ -465,6 +465,8 @@ for (let j=0; j<odp.length; j++) {
     tresc = tresc.replace(/;/mg,"");
     tresc = tresc.replace(/</mg,"");
     tresc = tresc.replace(/>/mg,"");
+    tresc = tresc.replace(/„/mg,"");
+    tresc = tresc.replace(/”/mg,"");
     let id = odp[j].htmlFor;
     if(pytaniaOdpowiedzi.get(pytanie)==tresc){
         udzieloneOdpowiedzi+=1;
