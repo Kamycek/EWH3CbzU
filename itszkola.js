@@ -6,7 +6,7 @@ const reg =/\s/mg;
 switch(nazwaKursu){
         /*Algorytmika i programowanie*/
     case "Algorytmika Internetu":
-    
+    arr=[['gdzieznalazłazastosowaniemetodasympleks','wmetodachoptymalizacji'],['gdzieznalazłazastosowaniemetodasympleks','wmetodachoptymalizacji'],['któryzwymienionychproblemówalgorytmicznychniejestzwiązanyzsieciąwww','sposobyimplementacjialgorytmu'],['któryzwymienionychproblemówalgorytmicznychniejestzwiązanyzsieciąwww','sposobyimplementacjialgorytmu'],['wktórejzwyszukiwarekinternetowychzostałzastosowanyalgorytmpagerank?','google'],['wktórejzwyszukiwarekinternetowychzostałzastosowanyalgorytmpagerank?','google'],['któryzponiżejwymienionychnaukowcówzajmowałsięregułamidodawaniaiodejmowaniaorazsposobamirozwiązywaniarównaniakwadratowego','muhamedalchwarizmi'],['któryzponiżejwymienionychnaukowcówzajmowałsięregułamidodawaniaiodejmowaniaorazsposobamirozwiązywaniarównaniakwadratowego','muhamedalchwarizmi'],['conazywamyalgorytmiką?','jesttoobszardociekań,wiedzyidoświadczeńdotyczącychalgorytmów'],['conazywamyalgorytmiką?','jesttoobszardociekań,wiedzyidoświadczeńdotyczącychalgorytmów'],['jakąfunkcjerealizujealgorytmpagerank?','indeksujestronyinternetoweprzypisującimwartośćbędącąjednocześnieinformacjąoichjakości,przezcopodczaswyszukiwaniastronyolepszejjakościsąwyświetlanewpierwszejkolejnościnaliście'],['jakąfunkcjerealizujealgorytmpagerank?','indeksujestronyinternetoweprzypisującimwartośćbędącąjednocześnieinformacjąoichjakości,przezcopodczaswyszukiwaniastronyolepszejjakościsąwyświetlanewpierwszejkolejnościnaliście'],['któryzpodanychponiżejproblemów,opisujeruchupakietówwsieci','lider'],['któryzpodanychponiżejproblemów,opisujeruchupakietówwsieci','lider'],['zaznacztąodpowiedzi,któracharakteryzujedobryalgorytm','jestpoprawny,mawłasnośćstop,dajewynikwrozsądnymczasie'],['zaznacztąodpowiedzi,któracharakteryzujedobryalgorytm','jestpoprawny,mawłasnośćstop,dajewynikwrozsądnymczasie'],['conazywamyzłożonościączasowąalgorytmów','jesttoliczbakrokówpotrzebnadowykonaniaalgorytmu'],['conazywamyzłożonościączasowąalgorytmów','jesttoliczbakrokówpotrzebnadowykonaniaalgorytmu'],['wskaż,któryznaukowcówwykazał,żealgorytmnwdwpesymistycznymprzypadkuwykonujeoperacjiarytmetycznych','lame'],['wskaż,któryznaukowcówwykazał,żealgorytmnwdwpesymistycznymprzypadkuwykonujeoperacjiarytmetycznych','lame'],]
         break;
     case "Algorytmy poszukiwania i porządkowania. Elementy języka programowania":
         
@@ -83,7 +83,6 @@ switch(nazwaKursu){
     case "Znajdowanie najkrótszych dróg i najkrótszych oraz najniższych drzew":
         
         break;
-<<<<<<< HEAD
     /*Bazy danych*/
     case "Bazy danych - jak je ugryźć?":
         
@@ -127,11 +126,6 @@ switch(nazwaKursu){
     /*Bezpieczeństwo systemów informatycznych*/
     case "Cyberprzemoc – anonimowość w sieci":
         
-=======
-        /*       Bezpieczeństwo systemów informatycznych     */
-    case "Cyberprzemoc – anonimowość w sieci":
-       arr=[['czykorzystajączinternetumogępozostaćcałkowicieanonimowy?','każdamojaaktywnośćimojedziałaniewsiecipozostawiajakiśślad,nawetgdykorzystamzespecjalnychtechnikmaskującychdziękicorazlepszymibardziejskutecznymtechnikomśledczymprawiezawszeudajesięzlokalizowaćkońcoweurządzenie,zktóregodokonanoszkody.'],['oczymnależypamiętaćprzywymyślaniubezpiecznegohasła?','dokażdegokontapowinniśmytworzyćinnehasło,żebyskuteczniezabezpieczyćsięprzedwłamaniemnanaszekonta.'],['ojakimurządzeniumożemypowiedzieć,żejestprzypadkowe?','hasłapowinnybyćzłożone,zconajmniej8znakówiskładaćsięzkombinacjiliter(najlepiejdużychimałych),cyfr,atakżeznakówspecjalnych(nawet,gdypolitykahasełtegoniewymaga).niepowinnyzawieraćinformacjiosobistych.'],['dlaczegofacebookiinneportaleinformującię,gdylogujeszsięwinnyniżzazwyczajsposób(np.innysprzęt,innalokalizacja)?','przypadkoweurządzeniatotakisprzęt,zktóregokorzystakażdy,np.wsklepach,bibliotekachiinnychpublicznychmiejscach,toteżtelefony,komputeryiinnesprzętyzastępcze.powinniśmyznichkorzystaćtylkowwyjątkowychokolicznościach.'],['conależyzrobićgdyktośwłamiesięnamojekontonaportaluspołecznościowym?','jesttokażdeurządzenie,którechoćnachwilęzejdziezmojegopolawidzenia(niewiemjakieoprogramowaniejesttamzainstalowane,jakmogąbyćwykorzystanedane,którenanimudostępnię).'],['cosięmożestać,gdyktośsięwłamienamojekontonaportaluspołecznościowym?','monitorowanienaszejaktywnościinaszegozachowanianadanymportaluspołecznościowymsłużyprzedewszystkimnaszemubezpieczeństwu.alert,któryotrzymujemyodadministratorówmożenasostrzec,żektośpróbujewłamaćsięnanaszekonto.'],['czyzawszepowinniśmysięwylogowaćzkontaportaluspołecznościowego,bankowego,pocztowegolubinnegoposkończonejpracy?','wartoskontaktowaćsięzadministratoremorazspróbowaćodzyskaćkonto.większośćportalispołecznościowychdajetakąmożliwość,czasamijednakmożezająćtotrochęczasu.gdyodzyskamykonto,trzebaprzedewszystkimzmienićhasłonanoweorazsprawdzić,jakieaktywnościnamoimkonciezostałypodjęte.'],['naczympolegapoczucieanonimowościwinternecie?','konsekwencjewłamaniasięnakontomogąbyćbardzopoważne.przedewszystkimktośuzyskujedostępdomoichprywatnychrozmów,kontaktów,zdjęćiinnychdanych.ponadtomożeskraśćmojątożsamość,mojekontonaportaluspołecznościowymlubwłamaćsięnamojekontobankowe.'],['czymjestmenadżerhaseł?','zawszepowinniśmypamiętaćowylogowaniusię,nawetgdykorzystamytylkozurządzeńosobistych.niestetyczasemmożemyzostawićtelefon,laptopczytabletniezablokowanyiktośuzyskadostępdonaszychkont.jeżelibędziemykorzystaćzopcjiwylogowania,wejdzienamtownawykigdyskorzystamyzprzypadkowegourządzenia,niezapomnimyotym.'],['oczymnależypamiętać,gdykorzystamyzprzypadkowegosprzętu?','poczucieanonimowościwsiecijestbardzopozorne.mimo,żeniezostawiamyswoichdanychosobowych,zostawiamywinternecieinneślady,np.adresipczyinnedanedotyczącemojejsieciczymojegosprzętu.jeżeliniewyrządzamnikomukrzywdy,stosujesiędopowszechnieobowiązującegoprawa,niktniebędziemniesprawdzałanikontrolował.'],]
->>>>>>> parent of 7fb0a2f... nowe kursy
         break;
     case "Cyberprzemoc – kompromitujące nagranie w sieci":
         
@@ -169,7 +163,6 @@ switch(nazwaKursu){
         
         break;
     case "Węglowodory - Alkiny":
-<<<<<<< HEAD
         
         break;
         /*Cyfrowe Igrzyska*/
@@ -434,11 +427,6 @@ switch(nazwaKursu){
     case "Wstęp do biometrii":
         
         break;
-=======
-        arr=[['wwynikupolimeryzacjitrzechcząsteczeketinupowstajezwiązekorganicznyonazwie:','benzen'],['wybierzpodpunkt,wktórympoprawniewymienionostosunekobjętościowypropynudotlenuwreakcjispalaniacałkowitego.','1:1'],['wwarunkachnormalnych,0,1molaacetylenustanowi:','6,02*10sup>22/sup>cząsteczeki2,6g'],['zaznaczzestaw,wktórympoprawniewymienionozwiązkiorganicznenależącedoszereguhomologicznegoalkinów.','csub>2/sub>hsub>2/sub>,csub>4/sub>hsub>6/sub>,csub>7/sub>hsub>12/sub>,csub>3/sub>hsub>4/sub>'],['wreakcjiaddycjicząsteczkichlorudoetynu,powstaje1,2-dichloroeten.reakcjakuczerowatoreakcjaprzyłączaniacząsteczkowodydoetynuwobecnościkwasusiarkowego(vi)orazsiarczanu(vi)rtęci(ii).propynznalazłzastosowaniewpalnikachgazowo-tlenowych,gdyżmożnagosprężać.wzórogólnyszereguhomologicznegoalkinówto:cnh2n-1.wiedząc,żeptoprawda,aftofałsz,zaznaczjednązczterechmożliwości:','pppf'],['ilewiązańsigmaiilewiązańpiznajdujesięwcząsteczceheks-2,4-diynu?','11sigmaoraz4pi'],['którypodpunktpoprawnieuzupełniponiższezdanie?wiązaniepotrójnewalkinachpowstajewmomenciehybrydyzacji_____________orbitaliatomuwęgla.','dygonalnejsp'],]
-     break;
-
->>>>>>> parent of 7fb0a2f... nowe kursy
     default:
         console.log("Nie znaleziono kursu!");
 }
@@ -458,27 +446,25 @@ for (let i =0; i<iloscPytan; i++){
 function jednoPytanie(klasa){
 let selektorPyt = "."+klasa+" table tbody th";
 pytanie = document.querySelector(selektorPyt).innerText;
-pytanie = pytanie.replace(/<([^>]+>)/ig,"");
-pytanie = pytanie.replace(/<br>/mg,"");
+pytanie = pytanie.replace(reg,"").toLowerCase();
 pytanie = pytanie.replace(/&gt/mg,"");
 pytanie = pytanie.replace(/&lt/mg,"");
 pytanie = pytanie.replace(/;/mg,"");
+pytanie = pytanie.replace(/</mg,"");
+pytanie = pytanie.replace(/>/mg,"");
 pytanie = pytanie.replace(/„/mg,"");
 pytanie = pytanie.replace(/”/mg,"");
-    
 //console.log(pytanie);
 let selektorOdp = "."+klasa+" .testQuest label";
 let odp = document.querySelectorAll(selektorOdp);
 for (let j=0; j<odp.length; j++) {
     let tresc = odp[j].innerHTML;
-    tresc = tresc.replace(/<([^>]+>)/ig,"");
     tresc = tresc.replace(reg,"").toLowerCase();
-    tresc = tresc.replace(/<br>/mg,"");
     tresc = tresc.replace(/&gt/mg,"");
     tresc = tresc.replace(/&lt/mg,"");
     tresc = tresc.replace(/;/mg,"");
-    tresc = tresc.replace(/„/mg,"");
-    tresc = tresc.replace(/”/mg,"");
+    tresc = tresc.replace(/</mg,"");
+    tresc = tresc.replace(/>/mg,"");
     let id = odp[j].htmlFor;
     if(pytaniaOdpowiedzi.get(pytanie)==tresc){
         udzieloneOdpowiedzi+=1;
