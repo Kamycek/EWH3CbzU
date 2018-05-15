@@ -83,7 +83,6 @@ switch(nazwaKursu){
     case "Znajdowanie najkrótszych dróg i najkrótszych oraz najniższych drzew":
         
         break;
-<<<<<<< HEAD
     /*Bazy danych*/
     case "Bazy danych - jak je ugryźć?":
         
@@ -127,11 +126,6 @@ switch(nazwaKursu){
     /*Bezpieczeństwo systemów informatycznych*/
     case "Cyberprzemoc – anonimowość w sieci":
         
-=======
-        /*       Bezpieczeństwo systemów informatycznych     */
-    case "Cyberprzemoc – anonimowość w sieci":
-       arr=[['czykorzystajączinternetumogępozostaćcałkowicieanonimowy?','każdamojaaktywnośćimojedziałaniewsiecipozostawiajakiśślad,nawetgdykorzystamzespecjalnychtechnikmaskującychdziękicorazlepszymibardziejskutecznymtechnikomśledczymprawiezawszeudajesięzlokalizowaćkońcoweurządzenie,zktóregodokonanoszkody.'],['oczymnależypamiętaćprzywymyślaniubezpiecznegohasła?','dokażdegokontapowinniśmytworzyćinnehasło,żebyskuteczniezabezpieczyćsięprzedwłamaniemnanaszekonta.'],['ojakimurządzeniumożemypowiedzieć,żejestprzypadkowe?','hasłapowinnybyćzłożone,zconajmniej8znakówiskładaćsięzkombinacjiliter(najlepiejdużychimałych),cyfr,atakżeznakówspecjalnych(nawet,gdypolitykahasełtegoniewymaga).niepowinnyzawieraćinformacjiosobistych.'],['dlaczegofacebookiinneportaleinformującię,gdylogujeszsięwinnyniżzazwyczajsposób(np.innysprzęt,innalokalizacja)?','przypadkoweurządzeniatotakisprzęt,zktóregokorzystakażdy,np.wsklepach,bibliotekachiinnychpublicznychmiejscach,toteżtelefony,komputeryiinnesprzętyzastępcze.powinniśmyznichkorzystaćtylkowwyjątkowychokolicznościach.'],['conależyzrobićgdyktośwłamiesięnamojekontonaportaluspołecznościowym?','jesttokażdeurządzenie,którechoćnachwilęzejdziezmojegopolawidzenia(niewiemjakieoprogramowaniejesttamzainstalowane,jakmogąbyćwykorzystanedane,którenanimudostępnię).'],['cosięmożestać,gdyktośsięwłamienamojekontonaportaluspołecznościowym?','monitorowanienaszejaktywnościinaszegozachowanianadanymportaluspołecznościowymsłużyprzedewszystkimnaszemubezpieczeństwu.alert,któryotrzymujemyodadministratorówmożenasostrzec,żektośpróbujewłamaćsięnanaszekonto.'],['czyzawszepowinniśmysięwylogowaćzkontaportaluspołecznościowego,bankowego,pocztowegolubinnegoposkończonejpracy?','wartoskontaktowaćsięzadministratoremorazspróbowaćodzyskaćkonto.większośćportalispołecznościowychdajetakąmożliwość,czasamijednakmożezająćtotrochęczasu.gdyodzyskamykonto,trzebaprzedewszystkimzmienićhasłonanoweorazsprawdzić,jakieaktywnościnamoimkonciezostałypodjęte.'],['naczympolegapoczucieanonimowościwinternecie?','konsekwencjewłamaniasięnakontomogąbyćbardzopoważne.przedewszystkimktośuzyskujedostępdomoichprywatnychrozmów,kontaktów,zdjęćiinnychdanych.ponadtomożeskraśćmojątożsamość,mojekontonaportaluspołecznościowymlubwłamaćsięnamojekontobankowe.'],['czymjestmenadżerhaseł?','zawszepowinniśmypamiętaćowylogowaniusię,nawetgdykorzystamytylkozurządzeńosobistych.niestetyczasemmożemyzostawićtelefon,laptopczytabletniezablokowanyiktośuzyskadostępdonaszychkont.jeżelibędziemykorzystaćzopcjiwylogowania,wejdzienamtownawykigdyskorzystamyzprzypadkowegourządzenia,niezapomnimyotym.'],['oczymnależypamiętać,gdykorzystamyzprzypadkowegosprzętu?','poczucieanonimowościwsiecijestbardzopozorne.mimo,żeniezostawiamyswoichdanychosobowych,zostawiamywinternecieinneślady,np.adresipczyinnedanedotyczącemojejsieciczymojegosprzętu.jeżeliniewyrządzamnikomukrzywdy,stosujesiędopowszechnieobowiązującegoprawa,niktniebędziemniesprawdzałanikontrolował.'],]
->>>>>>> parent of 7fb0a2f... nowe kursy
         break;
     case "Cyberprzemoc – kompromitujące nagranie w sieci":
         
@@ -169,7 +163,6 @@ switch(nazwaKursu){
         
         break;
     case "Węglowodory - Alkiny":
-<<<<<<< HEAD
         
         break;
         /*Cyfrowe Igrzyska*/
@@ -434,11 +427,6 @@ switch(nazwaKursu){
     case "Wstęp do biometrii":
         
         break;
-=======
-        arr=[['wwynikupolimeryzacjitrzechcząsteczeketinupowstajezwiązekorganicznyonazwie:','benzen'],['wybierzpodpunkt,wktórympoprawniewymienionostosunekobjętościowypropynudotlenuwreakcjispalaniacałkowitego.','1:1'],['wwarunkachnormalnych,0,1molaacetylenustanowi:','6,02*10sup>22/sup>cząsteczeki2,6g'],['zaznaczzestaw,wktórympoprawniewymienionozwiązkiorganicznenależącedoszereguhomologicznegoalkinów.','csub>2/sub>hsub>2/sub>,csub>4/sub>hsub>6/sub>,csub>7/sub>hsub>12/sub>,csub>3/sub>hsub>4/sub>'],['wreakcjiaddycjicząsteczkichlorudoetynu,powstaje1,2-dichloroeten.reakcjakuczerowatoreakcjaprzyłączaniacząsteczkowodydoetynuwobecnościkwasusiarkowego(vi)orazsiarczanu(vi)rtęci(ii).propynznalazłzastosowaniewpalnikachgazowo-tlenowych,gdyżmożnagosprężać.wzórogólnyszereguhomologicznegoalkinówto:cnh2n-1.wiedząc,żeptoprawda,aftofałsz,zaznaczjednązczterechmożliwości:','pppf'],['ilewiązańsigmaiilewiązańpiznajdujesięwcząsteczceheks-2,4-diynu?','11sigmaoraz4pi'],['którypodpunktpoprawnieuzupełniponiższezdanie?wiązaniepotrójnewalkinachpowstajewmomenciehybrydyzacji_____________orbitaliatomuwęgla.','dygonalnejsp'],]
-     break;
-
->>>>>>> parent of 7fb0a2f... nowe kursy
     default:
         console.log("Nie znaleziono kursu!");
 }
