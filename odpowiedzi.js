@@ -9,6 +9,8 @@ const reg =/\W/mgi;
 		pyt = pyt.replace(/<([^>]+>)/ig,"");
 		pyt = pyt.replace(reg,"");
 		odp = odpowiedzi[i].innerHTML;
+        odp = odp.replace(/<([^>]+>)/ig,"");
+		odp = odp.replace(reg,"");
         tresc += '[\''+pyt+'\',\''+odp+'\'],';
     }
 tresc +="]";
