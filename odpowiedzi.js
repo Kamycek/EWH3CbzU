@@ -8,11 +8,14 @@ const reg =/\s/mg;
 		pyt = pyt.replace(reg,"");
 		odp = odpowiedzi[i].innerHTML;
         tresc += '[\''+pyt+'\',\''+odp+'\'],';
-        tresc += '[\''+pytania[i].innerHTML+'\',\''+odpowiedzi[i].innerHTML+'\'],';
     }
 tresc +="]";
 tresc = tresc.replace(reg,"").toLowerCase();
 tresc = tresc.replace(/<br>/mg,"");
+tresc = tresc.replace(/<sub>/mg,"");
+tresc = tresc.replace(/<\/sub>/mg,"");
+tresc = tresc.replace(/<sup>/mg,"");
+tresc = tresc.replace(/<\/sup>/mg,"");
 tresc = tresc.replace(/&gt/mg,"");
 tresc = tresc.replace(/&lt/mg,"");
 tresc = tresc.replace(/;/mg,"");
