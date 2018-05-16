@@ -21,4 +21,6 @@ tresc = tresc.replace(/&lt/mg,"");
 tresc = tresc.replace(/;/mg,"");
 tresc = tresc.replace(/„/mg,"");
 tresc = tresc.replace(/”/mg,"");
+tresc = tresc.replace(/&amp/mg,"&");
+
 tresc
