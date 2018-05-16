@@ -1,4 +1,4 @@
-let wyklady = document.querySelectorAll('.fRS a')
+const wyklady = document.querySelectorAll('.fRS a')
 let wyklad;
 let text = "";
 for(let i=0;i<wyklady.length;i++){
